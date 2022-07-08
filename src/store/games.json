@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Grand Theft Auto V",
+        "rating": 4.48,
+        "released": "2013-09-17",
+        "updated": "2020-09-23",
+        "background_image": "https://cdn.forbes.com.mx/2020/05/Grand-Theft-Auto-V-640x360.jpg"
+    },
+    {
+        "name": "Portal 2",
+        "rating": 4.62,
+        "released": "2011-04-18",
+        "updated": "2020-08-03",
+        "background_image": "https://pivigames.blog/wp-content/uploads/2018/07/portal-2-mac-2844-0-min.jpg"
+    },
+    {
+        "name":"The Witcher 3: Wild Hunt",
+        "rating":4.67,
+        "released" :"2015-05-18",
+        "updated":"2022-01-02",
+        "background_image":"https://i.blogs.es/5350b0/ftin491veaaa7eq/1366_2000.jpeg"
+    },
+    {
+        "name":"Tomb Raider (2013)",
+        "rating":	4.05,
+        "released" :"2013-03-05",
+        "updated":"2022-04-19",
+        "background_image":"https://i.blogs.es/da8082/tomb-raider-definitive-edition/450_1000.webp"
+    },
+    {
+        "name":"The Elder Scrolls V: Skyrim",
+        "rating":	4.42	,
+        "released" :"2011-11-11",
+        "updated":"2020-07-06",
+        "background_image":"https://cdn-ext.fanatical.com/production/product/1280x720/305f04c9-8780-4c7b-91dd-e87979844dab.jpg"
+    },
+    {
+        "name":"Counter-Strike: Global Offensive",
+        "rating":	3.57	,
+        "released" :"2012-08-21",
+        "updated":"2020-08-07",
+        "background_image":"https://www.requisitos.top/wp-content/uploads/2019/02/requisitos-Counter-Strike-Global-Offensive.jpg"
+    }
+    
+]
